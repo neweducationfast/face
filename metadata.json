@@ -1,0 +1,7 @@
+{
+  "name": "FaceCheck 2026",
+  "description": "Next-Gen AI Face Attendance System for the 2026 Academic Year using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
